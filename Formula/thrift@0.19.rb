@@ -1,4 +1,4 @@
-class Thrift < Formula
+class ThriftAT19 < Formula
   desc "Framework for scalable cross-language services development"
   homepage "https://thrift.apache.org/"
   license "Apache-2.0"
